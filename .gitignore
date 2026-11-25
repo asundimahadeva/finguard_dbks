@@ -1,0 +1,9 @@
+# Unsupported by Databricks git folders
+New Pipeline 2026-11-25 01:50.dbpipeline.json
+finguard_customers_silver_ingestion.dbpipeline.json
+finguard_customers_silver_ingestion2.dbpipeline.json
+finguard_streaming.dbjob.json
+finguard_streaming.dbpipeline.json
+
+
+02_Setup_Secret_Scope.ipynb
