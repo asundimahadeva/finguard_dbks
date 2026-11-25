@@ -6,4 +6,8 @@ finguard_streaming.dbjob.json
 finguard_streaming.dbpipeline.json
 
 
-02_Setup_Secret_Scope.ipynb
+02_Setup_Secret_Scope.ipynb     
+
+api-key-GCASDHJO7LX7LQGX.txt
+.vscode/settings.json
+kafka_producer/.env
